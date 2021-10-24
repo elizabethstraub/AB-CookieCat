@@ -1,6 +1,6 @@
 **AB TESTING**
 
-Here we use AB testing to analyze the impact of gate placement on player retention within the mobile game Cookie Cats (Tactile Entertainment).
+Use AB testing to analyze the impact that gate placement has on player retention within the popular mobile game Cookie Cats (Tactile Entertainment).
 
 As players progress through the game, they encounter gates that force them to wait some time before they can progress to the next level, or they can proceed immediately by making an in-app purchase.  
 
